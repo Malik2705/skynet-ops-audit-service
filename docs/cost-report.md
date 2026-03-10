@@ -44,3 +44,4 @@ Estimated total: **$25–$30 per month**
 * Limit log retention to 7–14 days
 * Avoid unused resources
 * Monitor usage with cloud billing alerts
+
